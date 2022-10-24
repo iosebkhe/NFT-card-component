@@ -5,7 +5,7 @@ This is a solution to the [NFT card component](https://www.frontendmentor.io/cha
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/nft-card-component-Y-tJkSCAz8)
-- Live Site URL: [Click here](https://iosebkhe.github.io/NFT-card-component/)
+- Live Site URL: [Click here](https://nftcard-iosebkhe.netlify.app/)
 
 ###
 
